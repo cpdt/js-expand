@@ -1,0 +1,17 @@
+{
+  "name": "inline-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clone": "^2.1.2",
+    "esprima-walk": "^0.1.0",
+    "estree-walker": "^0.5.2",
+    "recast": "^0.15.3"
+  }
+}
